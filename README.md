@@ -1,2 +1,6 @@
 # storyblok-next-ssg
+
 A Storyblok + Next JS boilerplate with Static Site Generation support
+
+(COMING SOON)
+Hit star to show your support :)
